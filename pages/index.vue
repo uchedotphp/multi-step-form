@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <h1>Welcome to the homepage</h1>
-    <AppAlert> This is an auto-imported component </AppAlert>
-  </div>
+  <h1 class="text-3xl font-bold bg-red-400 underline">
+    Hello world!
+  </h1>
 </template>
