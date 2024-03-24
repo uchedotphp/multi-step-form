@@ -1,5 +1,9 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <!-- <NuxtWelcome /> -->
+   <!-- <h1>Welcome to the homepage</h1> -->
+   <NuxtPage />
+
+    <!-- {{ defineNuxtConfig }} -->
   </div>
 </template>
